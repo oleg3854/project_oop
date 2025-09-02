@@ -1,0 +1,23 @@
+@import url("header.css");
+@import url("user.css");
+@import url("footer.css");
+@import url("post.css");
+@import url("postContainer.css");
+@import url("root.css");
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: sans-serif;
+  background: #191919;
+  color: white;
+}
+
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+}
